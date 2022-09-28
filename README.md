@@ -1,2 +1,0 @@
-# kirti-kadian
-simple website
